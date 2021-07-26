@@ -2,7 +2,7 @@
 //cargar tarjeta
 
 
-import { data } from './data.js';
+import { data } from 'data.js';
 
 const templateCard = document.getElementById('template-card').content;
 const fragment = document.createDocumentFragment();
