@@ -5,7 +5,7 @@ export const data= [{
     "genero": "Comedia",
     "clase": " 1",
     "sipnosis": "Con el fin de volver a juntar a su desequilibrada familia y fortalecer los lazos familiares, Rusty Griswold (Ed Helms) decide repetir el viaje de vacaciones familiares que hizo cuando era pequeño. Decide cruzar todo el país junto a su esposa Debbie (Christina Applegate) y sus dos hijos Jack (Skyler Gisondo) y Kevin (Steele Stebbins) para ir al parque de atracciones favorito de las familias, Walley World. Sin embargo, no todo va a salir como tenía planificado Rusty. El filme supone una nueva entrega de la saga National Lampoon´s Vacation. En esta ocasión está protagonizada por Ed Helms (R3sacón, Somos los Miller), Christina Applegate (Carta Blanca), Chris Hemsworth (Rush, Thor: El mundo oscuro) y Chevy Chase (la serie de televisión Community). Escrita y dirigida por John Francis Daley y Jonathan M. Goldstein.",
-    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/le00Zpg0KV7VrztzmpQl2or349q.jpg",
+    "image": "./multimedia/catalago/045335.jpg",
 },
 {
     "id": 2,

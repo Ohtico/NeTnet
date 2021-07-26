@@ -26,8 +26,7 @@ const cargarData = data => {
         const { id, nombre, image, } = heroe;
         templateCard.querySelector('h5').textContent = nombre;
         templateCard.querySelector('img').setAttribute('src', image);
-        templateCard.querySelector('a').setAttribute('src', image);
-      
+          
 
         //clonar el template
         const clone = templateCard.cloneNode(true);
