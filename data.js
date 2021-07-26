@@ -14,7 +14,7 @@ export const data= [{
     "genero": "ESTRENO 16 JUNIO",
     "clase": "2",
     "sipnosis": "COMEDIA",
-    "image": "./multimedia/catalago/baywatch.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg",
 },
 {
     "id": 3,
@@ -23,7 +23,7 @@ export const data= [{
     "genero": "Fast and furios",
     "clase": "3",
     "sipnosis": "ACCION",
-    "image": "./multimedia/catalago/FAST.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/aIyqWTuf6NouKphVlxzbv9pblxQ.jpg",
 },
 {
     "id": 4,
@@ -32,16 +32,16 @@ export const data= [{
     "genero": "Marvel Comics",
     "clase": "4",
     "sipnosis": "Niños",
-    "image": "./multimedia/catalago/RABBIT.JPG",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/7qb6u23jMucfMlJ4MCSFo8djka1.jpg",
 },
 {
     "id": 5,
-    "name": "CORRE",
-    "nombre": "CORRE",
+    "name": "EL CHAPO",
+    "nombre": "EL CHAPO",
     "genero": "suspenso",
     "clase": "5",
-    "sipnosis": "Miedo",
-    "image": "./multimedia/catalago/corre.jpg",
+    "sipnosis": "NARCOTRAFICO",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/khAED7ox0Dfk4Ef5LAf6jPEe4oy.jpg",
 },
 {
     "id": 6,
@@ -50,7 +50,7 @@ export const data= [{
     "genero": "niños",
     "clase": "6",
     "sipnosis": "Infantil",
-    "image": "./multimedia/catalago/cruella.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg",
 },
 {
     "id": 7,
@@ -59,7 +59,7 @@ export const data= [{
     "genero": "Accion",
     "clase": "7",
     "sipnosis": "La nueva serie Loki, de Marvel Studios, empieza allí donde terminó Vengadores: Endgame. En ella, el voluble villano Loki vuelve a ganarse el apodo de Dios del Engaño",
-    "image": "./multimedia/catalago/loki.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/kAHPDqUUciuObEoCgYtHttt6L2Q.jpg",
 },
 {
     "id": 8,
@@ -68,7 +68,7 @@ export const data= [{
     "genero": "Misterio Drama Crimen",
     "clase": "8",
     "sipnosis": "La serie se desarrolla en el seductor ambiente del reggaeton, género que se ha tomado al mundo. Esta es la historia de Yeimy Montoya, una talentosa joven compositora que paga una injusta condena en una prisión de Nueva York tras ser engañada por Charly, el hombre que ama y que posteriormente le roba sus canciones, con las que logra alcanzar la fama y convertirse en una estrella. El único deseo de Yeimy es salir a cobrar venganza contra todos aquellos que acabaron con su vida y su familia.",
-    "image": "./multimedia/catalago/lareinadelflow.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
 },
 {
     "id": 9,
@@ -77,7 +77,7 @@ export const data= [{
     "genero": "crimen misterio drama",
     "clase": "9",
     "sipnosis": "Las Encinas, un exclusivo colegio privado al que la élite social del país envía a sus hijos. Pero en el centro son admitidos tres adolescentes de familias humildes después de que un terremoto destruyera el colegio público en el que estudiaban. El choque de clases genera diversos problemas que se agravan hasta que, de repente, se produce un asesinato.",
-    "image": "./multimedia/catalago/elite.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/g4iITTkAd0l1bVRk5gDSU6wfue6.jpg",
 },
 {
     "id": 10,
@@ -86,5 +86,5 @@ export const data= [{
     "genero": "vikingos",
     "clase": "10",
     "sipnosis": "Está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
-    "image": "./multimedia/catalago/the.jpg",
+    "image": "https://www.themoviedb.org/t/p/w220_and_h330_face/AbgAKXMmTU509Q1uws1IC3IluSd.jpg",
 }]
