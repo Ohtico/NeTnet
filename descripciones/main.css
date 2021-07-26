@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+
+body{
+    background: black;
+    font-family: 'Oswald', sans-serif;
+}
+
+iframe{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    width: 100vw;
+    margin-right: 50%;
+}

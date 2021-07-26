@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+body{
+    background: black;
+    font-family: 'Oswald', sans-serif;
+}
+.swal2-input{
+    width: 35vw;
+}
+.portada img{
+    height: 80vh;
+    width: 80vw;
+}
+
+
+.rojo{
+    color: red;
+}
